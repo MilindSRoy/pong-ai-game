@@ -10,7 +10,7 @@ Features:
 
 ## Demo
 
-![Pong Game Demo](demo.gif)
+
 
 ## Run locally
 
